@@ -23,3 +23,6 @@ i try to connect with heroku but haven't enough time
 
 
 ![Screenshot (111)](https://user-images.githubusercontent.com/116199827/196867493-15e8cf89-6796-4d71-b3e8-f25b098159d6.png)
+
+![Screenshot (112)](https://user-images.githubusercontent.com/116199827/196867762-d973edd4-1dcf-4d6a-9b0a-f6d8e0fc4773.png)
+
